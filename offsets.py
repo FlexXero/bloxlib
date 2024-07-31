@@ -1,8 +1,8 @@
 instance_offsets = {
-    "name":0x2C,
-    "parent":0x3C,
+    "name":0x48,
+    "parent":0x60,
     "childlist":0x30,
-    "class_descriptor":0xC,
+    "class_descriptor":0x18,
     "property_descriptor":0x18,
     "event_descriptor":0x78,
     "boundedfunctions":0xD8,
